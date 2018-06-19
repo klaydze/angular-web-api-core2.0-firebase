@@ -1,0 +1,11 @@
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\bin\Debug\netcoreapp2.0\WebApi.deps.json
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.json
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\bin\Debug\netcoreapp2.0\WebApi.runtimeconfig.dev.json
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\bin\Debug\netcoreapp2.0\WebApi.dll
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\bin\Debug\netcoreapp2.0\WebApi.pdb
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\obj\Debug\netcoreapp2.0\WebApi.csprojAssemblyReference.cache
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\obj\Debug\netcoreapp2.0\WebApi.csproj.CoreCompileInputs.cache
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfoInputs.cache
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\obj\Debug\netcoreapp2.0\WebApi.AssemblyInfo.cs
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\obj\Debug\netcoreapp2.0\WebApi.dll
+C:\workingfolders\angularjs\firebase-web-api-core-2-client\WebApi\obj\Debug\netcoreapp2.0\WebApi.pdb
