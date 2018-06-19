@@ -11,3 +11,6 @@ Framework used are as follows:
 You need to run the below command:
 - `npm install firebase angularfire2 --save`
 
+# References
+- https://github.com/hellotunmbi/angular2-authentication-firebase
+- https://github.com/sergeitemkin/FirebaseAuthWebApiSample
